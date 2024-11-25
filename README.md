@@ -15,6 +15,7 @@ https://wipfli.github.io/foursquare-os-places-pmtiles
 ## Download
 
 [foursquare-os-places-2024-11-20.pmtiles](https://oliverwipfli.ch/data/foursquare-os-places-2024-11-20.pmtiles) (22 GB)
+note to self, I've also downloaded the file locally when forking this
 
 ## Steps
 
